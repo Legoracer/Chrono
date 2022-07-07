@@ -1,0 +1,15 @@
+{
+    "name": "Explorer",
+    "tree": {
+        "$className": "DataModel",
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+                "Chrono": {
+                    "$path": "src"
+                }
+            }
+        }
+    }
+}
